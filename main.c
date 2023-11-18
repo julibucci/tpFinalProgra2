@@ -21,6 +21,7 @@ void mostrarMenu()
 
 int main()
 {
+    printf("hola");
     char nombreArchivo[] = "contenidos.dat";
     stContenido dato[100];
     int validos = 0;
@@ -59,7 +60,6 @@ int main()
     scanf("%d",&idContenido);
 
     buscarNodoPorIdContenido(arbol,idContenido2);
-
 
 
 
