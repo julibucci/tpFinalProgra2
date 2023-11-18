@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1699554821 source:c:\users\julie\onedrive\escritorio\programacion 2\tpfinallab\contenido.c
+	"contenido.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1699569033 c:\users\julie\onedrive\escritorio\programacion 2\tpfinallab\contenido.h
+
+1699645569 source:c:\users\julie\onedrive\escritorio\programacion 2\tpfinallab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"contenido.h"
+	"usuario.h"
+	"arboles.h"
+	"math.h"
+
+1699394348 source:c:\users\julie\onedrive\escritorio\programacion 2\tpfinallab\usuario.c
+	"usuario.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1699382463 c:\users\julie\onedrive\escritorio\programacion 2\tpfinallab\usuario.h
+
+1699645836 source:c:\users\julie\onedrive\escritorio\programacion 2\tpfinallab\arboles.c
+	"arboles.h"
+	"contenido.h"
+	<stdio.h>
+	<stdlib.h>
+	"math.h"
+
+1699570739 c:\users\julie\onedrive\escritorio\programacion 2\tpfinallab\arboles.h
+	"contenido.h"
+	"math.h"
+
